@@ -25,3 +25,6 @@
         - `python -m pip install --upgrade pip`
     - if you don’t have a requirements.txt file, you can manually install the required dependencies using:
         - `pip install PyQt5 librosa sounddevice`
+6. Run it
+    - enter the following command and wait for the GUI to appear
+        - `python main.py`
