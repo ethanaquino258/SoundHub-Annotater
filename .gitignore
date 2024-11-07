@@ -1,3 +1,5 @@
+soundhub-annotater/*
 Lib/
 Scripts/
 pyvenv.cfg
+*.png
